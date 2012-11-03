@@ -7,6 +7,7 @@ CHANGELOG
  * Feature: DNS executor timeout handling (@arnaud-lb)
  * Feature: DNS retry executor (@arnaud-lb)
  * Feature: HTTP client (@arnaud-lb)
+ * Bug fix: Forward drain events from HTTP response (@cs278)
 
 * 0.2.1 (2012-10-14)
 
